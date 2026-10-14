@@ -70,7 +70,7 @@ The server will start at `http://localhost:5000` with WebSocket support at `ws:/
 # In the project root:
 npm run dev
 ```
-Open `http://localhost:5174/` or `http://localhost:5173/` in your browser.
+Open `http://localhost:5174/` in your browser.
 
 ---
 
